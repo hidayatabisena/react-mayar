@@ -22,7 +22,7 @@ const ModalWrapper = styled.div`
   display: grid;
   grid-template-columns: 1fr 1fr;
   position: relative;
-  z-index: 10;
+  z-index: 99999;
   border-radius: 10px;
 `;
 
@@ -52,7 +52,7 @@ const MayarButton = styled.a`
     border: none;
     border-radius: 0.5rem;
     text-decoration: none;
-    z-index: 1000;
+    z-index: 10;
     cursor: pointer;
     &:hover {
       background: #2647f3;
@@ -68,7 +68,7 @@ const CloseModalButton = styled(MdClose)`
   width: 32px;
   height: 32px;
   padding: 0;
-  z-index: 10;
+  z-index: 50;
 `;
 
 export const Modal = ({ showModal, setShowModal }) => {
