@@ -1,7 +1,7 @@
 # Use Case Mayar
 QR Code scan and PayMe page in https://mayar.id
 
-![Mayar Button and QR Code](https://res.cloudinary.com/moyadev/image/upload/v1611042025/sena/sena-qris.png)
+![Mayar Button and QR Code](https://user-images.githubusercontent.com/3937792/105031230-99105000-5a87-11eb-8521-0f7acb639d92.gif)
 
 # Getting Started with Create React App
 
