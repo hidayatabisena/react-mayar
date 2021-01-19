@@ -52,7 +52,7 @@ const MayarButton = styled.a`
     border: none;
     border-radius: 0.5rem;
     text-decoration: none;
-    z-index: 5;
+    z-index: 1000;
     cursor: pointer;
     &:hover {
       background: #2647f3;
